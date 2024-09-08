@@ -1,5 +1,8 @@
 # Netflix-Data-Analysis-Tableau-Visualization
 
+![Dashboard Netflix](https://github.com/user-attachments/assets/d62897fc-ef20-4c56-9f20-2b31cded88f1)
+
+
 This project presents an in-depth analysis of Netflix’s content catalog using Tableau for data visualization. 
 The dataset includes detailed information on movies, TV shows, release years, genres, ratings, countries of 
 origin, and more.
