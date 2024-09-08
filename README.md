@@ -41,9 +41,6 @@ Examined the balance between licensed and original content over time.
 Tableau: Used for creating interactive visualizations and dashboards.
 Python (pandas): For data cleaning, preprocessing, and transformation before importing into Tableau.
 
-Dataset
-The dataset was sourced from Kaggle/Netflix Data and includes fields such as:
-
 # Conclusion
 This project provides a visual deep dive into Netflix's ever-growing content library, offering a clear picture of its strategic trends, geographical content spread, and evolving genre preferences. The Tableau visualizations provide actionable insights for stakeholders looking to understand Netflix’s market positioning and growth areas.
 
